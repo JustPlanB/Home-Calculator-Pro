@@ -1,0 +1,12 @@
+{
+  "appId": "ir.hesabketab.pro",
+  "appName": "حساب کتاب Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false,
+    "captureInput": false
+  },
+  "loggingBehavior": "none"
+}
